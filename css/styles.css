@@ -878,6 +878,7 @@ p {margin: 0;}
 }
 
 .policy-link {
+  margin-left: 3px;
   color: var(--accent-color);
 }
 
